@@ -1,4 +1,4 @@
-package error
+package gerror
 
 import "net/http"
 
